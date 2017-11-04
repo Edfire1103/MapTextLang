@@ -1774,7 +1774,7 @@
 	}
 	"ze_fire_temple_v2_4"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"火焰神庙"
 	}
 	"ze_ShroomForest3_p"
 	{
